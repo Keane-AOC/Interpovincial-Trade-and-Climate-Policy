@@ -42,6 +42,6 @@ Government of Canada, Canada Energy Regulator. (2026, January 29). CER – Canad
 
 Interprovincial Energy Trade - CESI. (n.d.). https://www.ces-energy.com/news/interprovincial-energy-trade?lm_namespace=news 
 
-The state of play on interprovincial trade. (n.d.). https://economics.td.com/ca-interprovincial-trade Withers, P. (2023, October 11). 
+The state of play on interprovincial trade. (n.d.). https://economics.td.com/ca-interprovincial-trade 
 
-N.S. abandons Atlantic Loop, will increase wind and solar energy projects for green electricity. CBC. https://www.cbc.ca/news/canada/nova-scotia/clean-power-plan-abandons-atlantic-loop-1.6992765
+Withers, P. (2023, October 11). N.S. abandons Atlantic Loop, will increase wind and solar energy projects for green electricity. CBC. https://www.cbc.ca/news/canada/nova-scotia/clean-power-plan-abandons-atlantic-loop-1.6992765
