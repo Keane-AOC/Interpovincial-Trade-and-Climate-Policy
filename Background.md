@@ -32,3 +32,16 @@ Canada Energy Regulator Electricty Supply Model: https://www.cer-rec.gc.ca/en/da
 Clean Energy Canada: https://cleanenergycanada.org/report/a-pivotal-moment 
 
 Canada Energy Regulator Electric Trade Summary: https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/electricity/statistics/electricity-trade-summary 
+
+# Sources
+Barriers to interprovincial trade are falling. What comes next might be even more important. (2025, October 22). Policy Options. https://policyoptions.irpp.org/2025/06/internal-trade-opinion/ 
+
+Frisko, B., & Hull, J. (2026, February 1). N.S. premier talks trade and energy following meeting between prime minister and provinces. CTVNews. https://www.ctvnews.ca/atlantic/nova-scotia/article/ns-premier-talks-trade-and-energy-following-meeting-between-prime-minister-and-provinces/ 
+
+Government of Canada, Canada Energy Regulator. (2026, January 29). CER – Canada Energy Profile. https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html 
+
+Interprovincial Energy Trade - CESI. (n.d.). https://www.ces-energy.com/news/interprovincial-energy-trade?lm_namespace=news 
+
+The state of play on interprovincial trade. (n.d.). https://economics.td.com/ca-interprovincial-trade Withers, P. (2023, October 11). 
+
+N.S. abandons Atlantic Loop, will increase wind and solar energy projects for green electricity. CBC. https://www.cbc.ca/news/canada/nova-scotia/clean-power-plan-abandons-atlantic-loop-1.6992765
