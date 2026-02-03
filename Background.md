@@ -19,4 +19,4 @@ The last key stakeholder is the Canadian population—more specifically, the pop
 
 This mix of stakeholders and their various priorities can result in conflicts if navigated poorly.
 # Data Sources
-Stats Canada Energy Profiles: https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html 
+Government of Canada Energy Profiles: https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html 
