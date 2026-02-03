@@ -1,7 +1,7 @@
 # Interpovincial Trade and Climate Policy
 There are three main stakeholders that come to mind when discussing this topic. 
 
-The first being the federal government in Canada as this stakeholder repsents the main authority and decision making entity in Canada. 
+The first being the federal government in Canada as this stakeholder repsents the main authority and decision making entity in Canada. The main motivation for the federal government——also shared by the other stakeholders involved——is an overall prosperity and success for Canada.
 
 The second key stakeholder is the provincial governments within Canada. Provinces within Canada have consitutional power over the resources within their borders. As a result of this, decisions surrounding the environment in Canada must be made as a result of a collaboration between provincial and federal governments. 
 
