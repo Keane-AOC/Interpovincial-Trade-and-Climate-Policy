@@ -1,0 +1,2 @@
+# Interpovincial Trade and Climate Policy
+There are three main stakeholders that come to mind when discussing this topic. The first being the federal government in Canada as this stakeholder repsents the main authority and decision making entity in Canada.
