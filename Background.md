@@ -1,2 +1,8 @@
 # Interpovincial Trade and Climate Policy
-There are three main stakeholders that come to mind when discussing this topic. The first being the federal government in Canada as this stakeholder repsents the main authority and decision making entity in Canada. The second key stakeholder is the provincial governments within Canada. Provinces within Canada have consitutional power over the resources within their borders. As a result of this, decisions surrounding the environment in Canada must be made as a result of a collaboration between provincial and federal governments. The last key stakeholder is the Canadian population——more specifically, the populations of each province and those that would be impacted by the instillation of green energy projects.
+There are three main stakeholders that come to mind when discussing this topic. 
+
+The first being the federal government in Canada as this stakeholder repsents the main authority and decision making entity in Canada. 
+
+The second key stakeholder is the provincial governments within Canada. Provinces within Canada have consitutional power over the resources within their borders. As a result of this, decisions surrounding the environment in Canada must be made as a result of a collaboration between provincial and federal governments. 
+
+The last key stakeholder is the Canadian population——more specifically, the populations of each province and those that would be impacted by the instillation of green energy projects. This group is also fruther broking down into two sub-groups with the Canadian population being seperated into the "general Canadian" population and the First Nations communities that live throughout Canada.
