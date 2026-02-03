@@ -1,3 +1,5 @@
+# Background
+Canada's transition to green energy presents the nation with a complex policy challenge shaped by geography, consitutional structure, and distinct provincial interests. Despite Canada's commitment to national and international cliamte targets it has struggled due to discrepancies in green energy infrastructure between the provinces. Despite goals of increasing interprovincial trade to make up for these discrepancies, limited energy transmission capacity restricts the ability to move clean energy between provinces.
 # Key Stakeholders
 Three main stakeholders come to mind when discussing this topic.
 
