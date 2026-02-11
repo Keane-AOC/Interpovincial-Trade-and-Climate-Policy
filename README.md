@@ -14,3 +14,9 @@ This project examines how the federal government should navigate these competing
 ![alt text](image-3.png)
 # Breakdown of Casual Loop Diagram
 This causal loop diagram (CLD) illustrates how federal climate and infrastructure investment interact with political constraints and system outcomes in Canada’s green energy transition. Increased federal investment expands interprovincial grid connectivity, which enables greater clean energy trade between provinces and increases overall green energy use. Over time, higher clean energy use improves the effectiveness of climate policy. This success can strengthen political support for continued investment. However, this reinforcing dynamic is counterbalanced by a balancing feedback loop driven by short-term energy costs. Large infrastructure investments raise near-term electricity prices, increasing cost-of-living pressures and reducing public and provincial political support. Declining political support then constrains further federal investment, slowing grid expansion. Together, these reinforcing and balancing loops show that the success of interprovincial grid integration depends less on technical feasibility and more on maintaining political support long enough for long-term benefits to outweigh short-term costs.
+
+> [!TIP] 
+> Public support data might be difficult to get, I didn't see it in your list of resources.  Failing that, we could use GDELT to measure tone in news sentiment - there is research to suggest that government investment in this sector can be influenced by media buzz.  Let me know if you want to do that, I have code to extract GDELT data.  https://www.gdeltproject.org/
+
+
+https://github.com/Keane-AOC/Interpovincial-Trade-and-Climate-Policy
