@@ -29,10 +29,7 @@ Government of Canada Energy Statistics (per month):https://www150.statcan.gc.ca/
 
 Canada Energy Regulator Electricty Supply Model: https://www.cer-rec.gc.ca/en/data-analysis/canada-energy-future/2023-modeling-methods/electricity 
 
-Clean Energy Canada: https://cleanenergycanada.org/report/a-pivotal-moment 
-> [!WARNING]
-> There doesn't appear to be downloadable data here
-
+Sentiment Analysis: https://www.gdeltproject.org/
 
 Canada Energy Regulator Electric Trade Summary: https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/electricity/statistics/electricity-trade-summary 
 
