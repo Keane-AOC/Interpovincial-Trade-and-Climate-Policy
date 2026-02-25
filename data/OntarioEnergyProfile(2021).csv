@@ -1,9 +1,0 @@
-Year,Region,Fuel Type, Value ,Unit
-2021,Ontario,Uranium,82.28139,TWh
-2021,Ontario,Hydro,35.23274,TWh
-2021,Ontario,Wind,12.41958,TWh
-2021,Ontario,Natural Gas,11.38609,TWh
-2021,Ontario,Solar,5.72606,TWh
-2021,Ontario,Biomass (0.8%),1.19488,TWh
-2021,Ontario,Petroleum (0.1%),0.09336,TWh
-2021,Ontario,Coal & Coke,0,TWh
