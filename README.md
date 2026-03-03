@@ -15,6 +15,18 @@ This project examines how the federal government should navigate these competing
 # Breakdown of Casual Loop Diagram
 This causal loop diagram (CLD) illustrates how federal climate and infrastructure investment interact with political constraints and system outcomes in Canada’s green energy transition. Increased federal investment expands interprovincial grid connectivity, which enables greater clean energy trade between provinces and increases overall green energy use. Over time, higher clean energy use improves the effectiveness of climate policy. This success can strengthen political support for continued investment. However, this reinforcing dynamic is counterbalanced by a balancing feedback loop driven by short-term energy costs. Large infrastructure investments raise near-term electricity prices, increasing cost-of-living pressures and reducing public and provincial political support. Declining political support then constrains further federal investment, slowing grid expansion. Together, these reinforcing and balancing loops show that the success of interprovincial grid integration depends less on technical feasibility and more on maintaining political support long enough for long-term benefits to outweigh short-term costs.
 
+# Provincial Energy Profiles (Map)
+![alt text](image.png)
+This visualization shows the energy production mix of Canadian provinces, with each pie chart representing the relative contribution of different fuel types to a province’s total energy production. By mapping these energy profiles geographically, the visualization highlights how regional resources and economic structures shape provincial energy systems. For example, provinces in Western Canada display stronger shares of fossil fuels and wind, while central and eastern provinces show larger contributions from hydro and nuclear energy. This visualization supports the project by illustrating the regional diversity of Canada’s energy landscape, making it easier to compare how provinces rely on different energy sources and identify broader patterns in the country’s overall energy production.
+# Carbon Emissions by Province Overtime (1990-2023)
+![alt text](image-1.png)
+
+# Energy Exports to United States by Province (w/Canada)
+![alt text](image-2.png)
+
+# Energy Available by Province
+![alt text](image-3.png)
+
 > [!TIP] 
 > Public support data might be difficult to get, I didn't see it in your list of resources.  Failing that, we could use GDELT to measure tone in news sentiment - there is research to suggest that government investment in this sector can be influenced by media buzz.  Let me know if you want to do that, I have code to extract GDELT data.  https://www.gdeltproject.org/
 
