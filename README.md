@@ -33,6 +33,13 @@ This visualization illustrates the total "Energy Available" or generated across 
 
 https://github.com/Keane-AOC/Interpovincial-Trade-and-Climate-Policy
 
-# Analysis
+# System Archetype Identification
+For this decision context, the dominant system arhcetype is growth and underinvestment. This is due to Canada's green energy expansion having clear potential for expansion. However, that expansion is constrained by insufficent and delayed investment into interpovincial grid connection. While there are additonal factors that are causing this underinvesment it all boils down to a lack of capital being put in place to start and complete these projects. 
 
-<u>System Archetype Identification<u>
+In the CLD model above, a clear reinforcing loop is outlined:
+    Federal funding->Grid integration->Clean energy sharing->Lower GHG emissions->Political support->Federal funding
+
+However, the growth outlined in the reinforcing loop is balanced by
+    Federeal funding->Increased costs->Reduced political support->Reduced federal funding
+
+As large-scale investments into infrastructure raise short term electricy prices political support for these projects will dwindle. This is really the crux of the whole decision making context. For the people—who support the political parties—this truly is an investment, they won't see the returns until much later. This idea generally applies to all green policy as the benfits of these policies is not immediate. The growth is there, it just needs the proper funding.
