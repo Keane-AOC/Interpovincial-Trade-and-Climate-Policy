@@ -32,3 +32,7 @@ This visualization illustrates the total "Energy Available" or generated across 
 
 
 https://github.com/Keane-AOC/Interpovincial-Trade-and-Climate-Policy
+
+# Analysis
+
+<u>System Archetype Identification<u>
