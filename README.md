@@ -47,4 +47,5 @@ As large-scale investments into infrastructure raise short term electricy prices
 The key indicator in this loop is the relation between political support and federal funding. The political support variable can be broken down further into any number of other variables but in this context it can be broken down into public cost and economic impact or realized gains. Energy available by province and energy exported to the US best exemplify the latter. The provinces that will most likley produce the most political support for a project like this are going to be leading in these categories. This is due to them already having required infracture in place, producing excess energy that they can share to other provinces, and economic benefits from renewable energy. For example, provinces like Quebec and Ontario who have robust green energy infrastructure and produce and export large amounts of energy will be in favour of this policy as there is little downside. However a province like Alberta which relies heavily on petroleum and natural gas and doesn't match the production or exports of the provinces above will be opposed.
 
 # Scenario Narratives
-    1. Status Quo
+1. Status Quo
+
