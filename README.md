@@ -33,7 +33,7 @@ This visualization illustrates the total "Energy Available" or generated across 
 
 https://github.com/Keane-AOC/Interpovincial-Trade-and-Climate-Policy
 
-# System Archetype Identification:Growth and Underinvestment
+# System Archetype Identification: Growth and Underinvestment
 For this decision context, the dominant system arhcetype is growth and underinvestment. This is due to Canada's green energy expansion having clear potential for expansion. However, that expansion is constrained by insufficent and delayed investment into interpovincial grid connection. While there are additonal factors that are causing this underinvesment it all boils down to a lack of capital being put in place to start and complete these projects. 
 
 In the CLD model above, a clear reinforcing loop is outlined:
