@@ -47,7 +47,9 @@ As large-scale investments into infrastructure raise short term electricy prices
 The key indicator in this loop is the relation between political support and federal funding. The political support variable can be broken down further into any number of other variables but in this context it can be broken down into public cost and economic impact or realized gains. Energy available by province and energy exported to the US best exemplify the latter. The provinces that will most likley produce the most political support for a project like this are going to be leading in these categories. This is due to them already having required infracture in place, producing excess energy that they can share to other provinces, and economic benefits from renewable energy. For example, provinces like Quebec and Ontario who have robust green energy infrastructure and produce and export large amounts of energy will be in favour of this policy as there is little downside. However a province like Alberta which relies heavily on petroleum and natural gas and doesn't match the production or exports of the provinces above will be opposed.
 
 # Scenario Narratives
+
 1. Status Quo
+
 Over the next 5–10 years, Canada continues to pursue a decentralized, province-by-province green energy strategy. Provinces prefer to invest in their own generation capacity, prioritizing jurisdictional autonomy over interprovincial coordination. While this approach allows for incremental progress, it reinforces fragmentation within the Canadian energy system.
 
 The reinforcing loop (R) remains weak, as limited grid integration restricts clean energy sharing. Provinces with surplus clean energy—such as Quebec and Ontario—continue exporting electricity to the United States rather than their fellow provinces. Occuring concurrently, the fossil fuel–dependent provinces—such as Alberta and Saskatchewan—face higher costs transitioning independently, slowing emissions reductions.
@@ -59,6 +61,7 @@ Emissions decline modestly, but unevenly. Based on historical trends, provinces 
 By year 10, Canada maintains a politically stable but inefficient system and potentially unstable system as those that can do and those that cannot remain stuck in their ways. Clean energy capacity exists, but systemic barriers prevent optimization. The country remains reliant on external energy markets and fails to fully leverage its domestic advantages.
 
 2. Intervention A: Federa Grid Integration Strategy
+
 Under this scenario, the federal government prioritizes large-scale investment in interprovincial grid infrastructure. Federal funding increases significantly, directly strengthening the reinforcing loop (R).
 
 In the short term, the balancing loop (B) intensifies. Infrastructure development raises costs, increasing electricity prices and cost-of-living pressures for the public. This leads to a temporary decline in political support, particularly in provinces skeptical of federal involvement—e.g. Alberta.
@@ -72,6 +75,7 @@ Quantitatively, emissions reductions could accelerate beyond current trajectorie
 The key uncertainty is political durability—whether governments can maintain support long enough to fully realize long-term benefits.
 
 3. Intervention B: Decentralized Provincial Investment Strategy
+
 In this scenario, the federal government shifts funding toward supporting province-specific clean energy projects, avoiding large-scale grid integration and accusations of federal interferance in provincial jursidiction.
 
 This reduces the strength of the balancing loop (B), as costs are smaller and more localized, minimizing immediate political backlash. Political support remains relatively stable but also remains regionalized.
