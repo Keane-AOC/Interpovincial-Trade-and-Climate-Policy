@@ -48,4 +48,43 @@ The key indicator in this loop is the relation between political support and fed
 
 # Scenario Narratives
 1. Status Quo
+Over the next 5–10 years, Canada continues to pursue a decentralized, province-by-province green energy strategy. Provinces prefer to invest in their own generation capacity, prioritizing jurisdictional autonomy over interprovincial coordination. While this approach allows for incremental progress, it reinforces fragmentation within the Canadian energy system.
 
+The reinforcing loop (R) remains weak, as limited grid integration restricts clean energy sharing. Provinces with surplus clean energy—such as Quebec and Ontario—continue exporting electricity to the United States rather than their fellow provinces. Occuring concurrently, the fossil fuel–dependent provinces—such as Alberta and Saskatchewan—face higher costs transitioning independently, slowing emissions reductions.
+
+The balancing loop (B) remains active but less visible. Costs are unevenly distributed across provinces as those that lack green energy infrastructure begin to lage behind those that do, increasing the desparity between the "have and have not" provinces. This strategy is pursude rather than concentrated costs in large federal projects to reduce immediate political backlash. However, this comes at the expense of long-term efficiency.
+
+Emissions decline modestly, but unevenly. Based on historical trends, provinces like Ontario may continue gradual reductions, while Alberta and Saskatchewan remain high emitters. National emissions targets are likely missed or delayed.
+
+By year 10, Canada maintains a politically stable but inefficient system and potentially unstable system as those that can do and those that cannot remain stuck in their ways. Clean energy capacity exists, but systemic barriers prevent optimization. The country remains reliant on external energy markets and fails to fully leverage its domestic advantages.
+
+2. Intervention A: Federa Grid Integration Strategy
+Under this scenario, the federal government prioritizes large-scale investment in interprovincial grid infrastructure. Federal funding increases significantly, directly strengthening the reinforcing loop (R).
+
+In the short term, the balancing loop (B) intensifies. Infrastructure development raises costs, increasing electricity prices and cost-of-living pressures for the public. This leads to a temporary decline in political support, particularly in provinces skeptical of federal involvement—e.g. Alberta.
+
+However, as projects are completed—typically within 5–10 years—grid integration improves, enabling large-scale clean energy sharing. Provinces with surplus hydroelectric power begin supplying fossil fuel–dependent region—example, Manitoba supplying Saskatchewan—educing GHG emissions.
+
+As emissions decline and system efficiency improves, political support rebounds, reactivating the reinforcing loop. Economic benefits—including lower long-term energy costs and increased energy security—further strengthen support.
+
+Quantitatively, emissions reductions could accelerate beyond current trajectories, particularly in high-emitting provinces. Energy price volatility may decrease due to diversified supply.
+
+The key uncertainty is political durability—whether governments can maintain support long enough to fully realize long-term benefits.
+
+3. Intervention B: Decentralized Provincial Investment Strategy
+In this scenario, the federal government shifts funding toward supporting province-specific clean energy projects, avoiding large-scale grid integration and accusations of federal interferance in provincial jursidiction.
+
+This reduces the strength of the balancing loop (B), as costs are smaller and more localized, minimizing immediate political backlash. Political support remains relatively stable but also remains regionalized.
+
+However, the reinforcing loop (R) is significantly weakened. Without improved grid integration, clean energy sharing remains limited, happening on a smaller scale and by select provinces. Provinces must rely on their own resources, leading to duplicated infrastructure and inefficiencies.
+
+Over time, wealthier or resource-rich provinces advance more quickly, while others lag behind. This risks reinforcing the “have and have nots” dynamic that currently occurs between the provinces, where already-advantaged regions continue to benefit disproportionately.
+
+Emissions reductions occur, but at a slower and more uneven rate. High-emitting provinces face higher transition costs without access to imported clean energy supplementing the process.
+
+By year 10, Canada achieves moderate emissions reductions but misses opportunities for nation-wide optimization. The energy system remains fragmented, and long-term costs are higher than in an integrated model.
+
+The main uncertainty is whether technological improvements or provincial cooperation could offset the lack of integration.
+
+# Leverage Point Analysis
+The most impactful leverage point in this system is political support. This is due to it directly influencing the level and consistency of federal funding, which drives the entire clean energy transition. Political supports sits at the center of both the balancing and reinforcing loops: the variable strengthens the reinforcing loop by enabling continued investment into grid integration, while also negativley affected by rising short-term costs in the balancing loop. This makes the variable a high impact intervention point, as even small changes in support can have cascading effects across the system. Through the implementation of policies that reduce the immediate cost burden the government can weaken the balancing loop and sustain funding for the long-term benefits of integration. However, this approach is not without risk. Public resistance to rising costs, regional inequalities, and provincial opposition to federal involvement could all undermine public support. Despite these challenges, targeting political support offers the most efficient way to shift the system, as it addresses the root constraint preventing long-term growth rather than just its symptoms.
