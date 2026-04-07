@@ -35,6 +35,7 @@ This project examines how the federal government should navigate these competing
 ### [The public mandate](#the-public-mandate-1)
 
 # Summary of Data Sources
+All data used in this project was sourced from official Government of Canada agencies, independent regulatory bodies, and peer-reviewed polling institutions. Primary sources include the Canada Energy Regulator, Statistics Canada, and Environment and Climate Change Canada, ensuring that the quantitative foundation of this analysis reflects verified, publicly available national data. Public sentiment is captured through two independent polls conducted by Abacus Data and Clean Energy Canada, both of which employ nationally representative sampling methodologies.
 ## Government of Canada Energy Profiles
 Provides comprehensive energy profiles for each Canadian province and territory, covering electricity generation mix, energy consumption patterns, and infrastructure capacity. This source is particularly useful for understanding how each province's energy system is structured and what resources they rely on, forming the backbone of the provincial comparison analysis in this project.
 
