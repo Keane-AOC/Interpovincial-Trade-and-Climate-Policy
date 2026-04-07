@@ -11,25 +11,25 @@ Recent geopolitical tensions between Canada and the United States have renewed f
 This project examines how the federal government should navigate these competing approaches when allocating climate and infrastructure funding. The analysis considers the interests of three key stakeholders: the federal government, which seeks national prosperity while meeting international climate commitments; provincial governments, which prioritize provincial economic outcomes and resource autonomy; and the Canadian population, including First Nations communities, whose economic well-being and rights must be respected in any energy transition. By comparing the long-term economic, environmental, and political implications of interprovincial grid integration versus decentralized provincial development, this project aims to inform a policy decision that balances emissions reduction, affordability, equity, and political feasibility across Canada.
 
 # Table of Contents
-## [Casual Loop Diagram](#casual-loop-diagram)
-#### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram)
-## [Visualizations](#visualizations)
+## [Casual Loop Diagram](#casual-loop-diagram-1)
+#### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram-1)
+## [Visualizations](#visualizations-1)
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
 ### [Energy available by province](#energy-available-by-province-fig-4)
 ## [System Analysis](#system-analysis)
 ### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
-### [Scenario narratives](#scenario-narratives)
-#### [Status quo](#1-status-quo)
-#### [Intervention A](#2-intervention-a-federal-grid-integration-strategy)
-#### [Intervention B](#3-intervention-b-decentralized-provincial-investment-strategy)
-#### [Levarage point analysis](#levarage-point-analysis)
-## [Recommendation](#recommendation)
-### [The core argument](#the-core-argument)
-### [Why the other options fail](#why-the-other-options-fail)
-### [The critical condition](#the-critical-condition)
-### [The public mandate](#the-public-mandate)
+### [Scenario narratives](#scenario-narratives-1)
+#### [Status quo](#1-status-quo-1)
+#### [Intervention A](#2-intervention-a-federal-grid-integration-strategy-1)
+#### [Intervention B](#3-intervention-b-decentralized-provincial-investment-strategy-1)
+#### [Levarage point analysis](#levarage-point-analysis-1)
+## [Recommendation](#recommendation-1)
+### [The core argument](#the-core-argument-1)
+### [Why the other options fail](#why-the-other-options-fail-1)
+### [The critical condition](#the-critical-condition-1)
+### [The public mandate](#the-public-mandate-1)
 
 
 
