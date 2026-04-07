@@ -22,12 +22,6 @@ This project examines how the federal government should navigate these competing
 ## [Casual Loop Diagram](#casual-loop-diagram-1)
 #### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram-1)
 ## [System Analysis](#system-analysis-1)
-### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
-### [Scenario narratives](#scenario-narratives-1)
-#### [Status quo](#1-status-quo-1)
-#### [Intervention A](#2-intervention-a-federal-grid-integration-strategy-1)
-#### [Intervention B](#3-intervention-b-decentralized-provincial-investment-strategy-1)
-#### [Levarage point analysis](#levarage-point-analysis-1)
 ## [Recommendation](#recommendation-1)
 ### [The core argument](#the-core-argument-1)
 ### [Why the other options fail](#why-the-other-options-fail-1)
@@ -85,66 +79,9 @@ The key leverage point in this CLD is political support, as it decides whether o
 For a federal decision-maker weighing whether to continue funding interprovincial grid projects, this CLD suggests the choice is not simply about infrastructure — it is about whether to sustain investment through the politically vulnerable early phase long enough for R1 to self-reinforce. Cutting funding prematurely locks the system into B1's logic, where costs dominate and support erodes. Staying the course, particularly by communicating early emissions wins to the public, is the structural intervention most likely to shift the system toward the R1 growth trajectory.
 
 # System Analysis
-
-## System Archetype Identification: Growth and Underinvestment
-For this decision context, the dominant system arhcetype is growth and underinvestment. This is due to Canada's green energy expansion having clear potential for expansion. However, that expansion is constrained by insufficent and delayed investment into interpovincial grid connection. While there are additonal factors that are causing this underinvesment it all boils down to a lack of capital being put in place to start and complete these projects. 
-
-In the CLD model above, a clear reinforcing loop is outlined:
-    Federal funding->Grid integration->Clean energy sharing->Lower GHG emissions->Political support->Federal funding
-
-However, the growth outlined in the reinforcing loop is balanced by:
-    Federeal funding->Increased costs->Reduced political support->Reduced federal funding
-
-As large-scale investments into infrastructure raise short term electricy prices political support for these projects will dwindle. This is really the crux of the whole decision making context. For the people—who support the political parties—this truly is an investment, they won't see the returns until much later. This idea generally applies to all green policy as the benfits of these policies is not immediate. The growth is there, it just needs the proper funding.
-
-The key indicator in this loop is the relation between political support and federal funding. The political support variable can be broken down further into any number of other variables but in this context it can be broken down into public cost and economic impact or realized gains. Energy available by province and energy exported to the US best exemplify the latter. The provinces that will most likley produce the most political support for a project like this are going to be leading in these categories. This is due to them already having required infracture in place, producing excess energy that they can share to other provinces, and economic benefits from renewable energy. For example, provinces like Quebec and Ontario who have robust green energy infrastructure and produce and export large amounts of energy will be in favour of this policy as there is little downside. However a province like Alberta which relies heavily on petroleum and natural gas and doesn't match the production or exports of the provinces above will be opposed.
-
-## Scenario Narratives
-
-### 1. Status Quo
-
-Over the next 5–10 years, Canada continues to pursue a decentralized, province-by-province green energy strategy. Provinces prefer to invest in their own generation capacity, prioritizing jurisdictional autonomy over interprovincial coordination. While this approach allows for incremental progress, it reinforces fragmentation within the Canadian energy system.
-
-The reinforcing loop (R) remains weak, as limited grid integration restricts clean energy sharing. Provinces with surplus clean energy—such as Quebec and Ontario—continue exporting electricity to the United States rather than their fellow provinces. Occuring concurrently, the fossil fuel–dependent provinces—such as Alberta and Saskatchewan—face higher costs transitioning independently, slowing emissions reductions.
-
-The balancing loop (B) remains active but less visible. Costs are unevenly distributed across provinces as those that lack green energy infrastructure begin to lage behind those that do, increasing the desparity between the "have and have not" provinces. This strategy is pursude rather than concentrated costs in large federal projects to reduce immediate political backlash. However, this comes at the expense of long-term efficiency.
-
-Emissions decline modestly, but unevenly. Based on historical trends, provinces like Ontario may continue gradual reductions, while Alberta and Saskatchewan remain high emitters. National emissions targets are likely missed or delayed.
-
-By year 10, Canada maintains a politically stable but inefficient system and potentially unstable system as those that can do and those that cannot remain stuck in their ways. Clean energy capacity exists, but systemic barriers prevent optimization. The country remains reliant on external energy markets and fails to fully leverage its domestic advantages.
-
-### 2. Intervention A: Federal Grid Integration Strategy
-
-Under this scenario, the federal government prioritizes large-scale investment in interprovincial grid infrastructure. Federal funding increases significantly, directly strengthening the reinforcing loop (R).
-
-In the short term, the balancing loop (B) intensifies. Infrastructure development raises costs, increasing electricity prices and cost-of-living pressures for the public. This leads to a temporary decline in political support, particularly in provinces skeptical of federal involvement—e.g. Alberta.
-
-However, as projects are completed—typically within 5–10 years—grid integration improves, enabling large-scale clean energy sharing. Provinces with surplus hydroelectric power begin supplying fossil fuel–dependent region—example, Manitoba supplying Saskatchewan—educing GHG emissions.
-
-As emissions decline and system efficiency improves, political support rebounds, reactivating the reinforcing loop. Economic benefits—including lower long-term energy costs and increased energy security—further strengthen support.
-
-Quantitatively, emissions reductions could accelerate beyond current trajectories, particularly in high-emitting provinces. Energy price volatility may decrease due to diversified supply.
-
-The key uncertainty is political durability—whether governments can maintain support long enough to fully realize long-term benefits.
-
-### 3. Intervention B: Decentralized Provincial Investment Strategy
-
-In this scenario, the federal government shifts funding toward supporting province-specific clean energy projects, avoiding large-scale grid integration and accusations of federal interferance in provincial jursidiction.
-
-This reduces the strength of the balancing loop (B), as costs are smaller and more localized, minimizing immediate political backlash. Political support remains relatively stable but also remains regionalized.
-
-However, the reinforcing loop (R) is significantly weakened. Without improved grid integration, clean energy sharing remains limited, happening on a smaller scale and by select provinces. Provinces must rely on their own resources, leading to duplicated infrastructure and inefficiencies.
-
-Over time, wealthier or resource-rich provinces advance more quickly, while others lag behind. This risks reinforcing the “have and have nots” dynamic that currently occurs between the provinces, where already-advantaged regions continue to benefit disproportionately.
-
-Emissions reductions occur, but at a slower and more uneven rate. High-emitting provinces face higher transition costs without access to imported clean energy supplementing the process.
-
-By year 10, Canada achieves moderate emissions reductions but misses opportunities for nation-wide optimization. The energy system remains fragmented, and long-term costs are higher than in an integrated model.
-
-The main uncertainty is whether technological improvements or provincial cooperation could offset the lack of integration.
-
-## Leverage Point Analysis
-The most impactful leverage point in this system is political support. This is due to it directly influencing the level and consistency of federal funding, which drives the entire clean energy transition. Political supports sits at the center of both the balancing and reinforcing loops: the variable strengthens the reinforcing loop by enabling continued investment into grid integration, while also negativley affected by rising short-term costs in the balancing loop. This makes the variable a high impact intervention point, as even small changes in support can have cascading effects across the system. Through the implementation of policies that reduce the immediate cost burden the government can weaken the balancing loop and sustain funding for the long-term benefits of integration. However, this approach is not without risk. Public resistance to rising costs, regional inequalities, and provincial opposition to federal involvement could all undermine public support. Despite these challenges, targeting political support offers the most efficient way to shift the system, as it addresses the root constraint preventing long-term growth rather than just its symptoms.
+Canada's green energy transition reflects a classic Growth and Underinvestment archetype. The potential for expansion is clear, but it is consistently constrained by insufficient and delayed investment in interprovincial grid infrastructure. At its core, this is a capital problem — the reinforcing loop driving clean energy expansion requires sustained federal funding to activate, but that funding is perpetually threatened by the short-term cost pressures that large infrastructure projects generate. For the Canadian public, this is genuinely an investment in the traditional sense: the costs are immediate and visible, while the returns are delayed and diffuse. This dynamic applies broadly to green policy and is the central tension of this decision context.
+The three scenarios illustrate how this tension plays out under different policy choices. The Status Quo leaves the reinforcing loop too weak to overcome fragmentation, allowing Quebec and Ontario to continue exporting surplus energy southward while fossil fuel-dependent provinces fall further behind — deepening the have and have-not divide without meaningfully advancing national emissions targets. Intervention B reduces political friction by keeping costs localized, but sacrifices the grid integration needed for clean energy sharing at scale, producing moderate and uneven emissions reductions by year ten. Intervention A is the only scenario that fully activates the reinforcing loop, enabling large-scale clean energy sharing between provinces and accelerating emissions reductions — but it carries the highest short-term political risk as infrastructure costs rise before benefits materialize.
+The leverage point that determines which trajectory Canada follows is political support. Sitting at the intersection of both the reinforcing and balancing loops, political support directly controls the consistency of federal funding that drives the entire transition. Small shifts in public sentiment produce cascading effects across the system, making it the highest-impact variable to target. The most effective intervention is therefore not purely infrastructural — it is managing the cost narrative through the vulnerable early phase of Intervention A long enough for the reinforcing loop to become self-sustaining.Sonnet 4.6
 
 # Recommendation
 ## The core argument
