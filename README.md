@@ -30,6 +30,7 @@ This project examines how the federal government should navigate these competing
 ## [Limitations and Future Work](#limitations-and-future-work-1)
 ### [Limitations](#limitations-1)
 ### [Future work](#future-work-1)
+# [References](#references-1)
 
 # Summary of Data Sources
 All data used in this project was sourced from official Government of Canada agencies, independent regulatory bodies, and peer-reviewed polling institutions. Primary sources include the Canada Energy Regulator, Statistics Canada, and Environment and Climate Change Canada, ensuring that the quantitative foundation of this analysis reflects verified, publicly available national data. Public sentiment is captured through two independent polls conducted by Abacus Data and Clean Energy Canada, both of which employ nationally representative sampling methodologies.
@@ -115,13 +116,22 @@ Finally, a province-level analysis of the sequencing strategy proposed in the Cr
 
 # References 
 Abacus Data. (2024). A first look at the political opinion impact of the Canada-Alberta Energy MOU. Abacus Data. https://abacusdata.ca/abacus-data-poll-a-first-look-at-the-political-opinion-impact-of-the-canada-alberta-energy-mou/
+
 Barriers to interprovincial trade are falling. What comes next might be even more important. (2025, October 22). Policy Options. https://policyoptions.irpp.org/2025/06/internal-trade-opinion/
+
 Canada Energy Regulator. (2023). Canada's energy future 2023: Electricity supply model documentation. Government of Canada.
+
 Clean Energy Canada. (2024). Poll: Two-thirds of Canadians favour developing clean energy over fossil fuels while 85% wish to maintain or increase federal climate action. Clean Energy Canada. https://cleanenergycanada.org/poll-two-thirds-of-canadians-favour-developing-clean-energy-over-fossil-fuels-while-85-wish-to-maintain-or-increase-federal-climate-action/
+
 Frisko, B., & Hull, J. (2026, February 1). N.S. premier talks trade and energy following meeting between prime minister and provinces. CTVNews. https://www.ctvnews.ca/atlantic/nova-scotia/article/ns-premier-talks-trade-and-energy-following-meeting-between-prime-minister-and-provinces/
+
 Government of Canada, Canada Energy Regulator. (2026, January 29). CER – Canada energy profile. https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html
+
 Government of Canada, Environment and Climate Change Canada. (2024). Greenhouse gas emissions indicators. https://www.canada.ca/en/environment-climate-change.html
 Government of Canada, Statistics Canada. (2024). Monthly energy statistics. https://www150.statcan.gc.ca
+
 Interprovincial energy trade. (n.d.). CESI. https://www.ces-energy.com/news/interprovincial-energy-trade?lm_namespace=news
+
 The state of play on interprovincial trade. (n.d.). TD Economics. https://economics.td.com/ca-interprovincial-trade
+
 Withers, P. (2023, October 11). N.S. abandons Atlantic Loop, will increase wind and solar energy projects for green electricity. CBC. https://www.cbc.ca/news/canada/nova-scotia/clean-power-plan-abandons-atlantic-loop-1.6992765
