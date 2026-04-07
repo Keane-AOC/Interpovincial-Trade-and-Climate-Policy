@@ -50,7 +50,9 @@ On the question of federal climate action, the data shows that the vast majority
 ![alt text](image-11.png)
 This visualization illustrates the total "Energy Available" or generated across Canadian provinces on a quarterly basis, revealing strong seasonal patterns in production. Quebec clearly dominates the landscape, exhibiting sharp peaks in the first quarter of each year, which aligns with the high demand for heating and the resulting ramp-up of its massive hydroelectric capacity. Ontario follows as the second-largest producer with a more stable output, likely due to its steady nuclear baseload. By showing the total MW generated, this chart underscores the uneven distribution of energy infrastructure in Canada, where a few provinces provide the vast majority of the nation's power, and highlights the cyclical nature of energy availability within the Canadian grid.
 
-# System Archetype Identification: Growth and Underinvestment
+# System Analysis
+
+## System Archetype Identification: Growth and Underinvestment
 For this decision context, the dominant system arhcetype is growth and underinvestment. This is due to Canada's green energy expansion having clear potential for expansion. However, that expansion is constrained by insufficent and delayed investment into interpovincial grid connection. While there are additonal factors that are causing this underinvesment it all boils down to a lack of capital being put in place to start and complete these projects. 
 
 In the CLD model above, a clear reinforcing loop is outlined:
@@ -63,9 +65,9 @@ As large-scale investments into infrastructure raise short term electricy prices
 
 The key indicator in this loop is the relation between political support and federal funding. The political support variable can be broken down further into any number of other variables but in this context it can be broken down into public cost and economic impact or realized gains. Energy available by province and energy exported to the US best exemplify the latter. The provinces that will most likley produce the most political support for a project like this are going to be leading in these categories. This is due to them already having required infracture in place, producing excess energy that they can share to other provinces, and economic benefits from renewable energy. For example, provinces like Quebec and Ontario who have robust green energy infrastructure and produce and export large amounts of energy will be in favour of this policy as there is little downside. However a province like Alberta which relies heavily on petroleum and natural gas and doesn't match the production or exports of the provinces above will be opposed.
 
-# Scenario Narratives
+## Scenario Narratives
 
-## 1. Status Quo
+### 1. Status Quo
 
 Over the next 5–10 years, Canada continues to pursue a decentralized, province-by-province green energy strategy. Provinces prefer to invest in their own generation capacity, prioritizing jurisdictional autonomy over interprovincial coordination. While this approach allows for incremental progress, it reinforces fragmentation within the Canadian energy system.
 
@@ -77,7 +79,7 @@ Emissions decline modestly, but unevenly. Based on historical trends, provinces 
 
 By year 10, Canada maintains a politically stable but inefficient system and potentially unstable system as those that can do and those that cannot remain stuck in their ways. Clean energy capacity exists, but systemic barriers prevent optimization. The country remains reliant on external energy markets and fails to fully leverage its domestic advantages.
 
-## 2. Intervention A: Federal Grid Integration Strategy
+### 2. Intervention A: Federal Grid Integration Strategy
 
 Under this scenario, the federal government prioritizes large-scale investment in interprovincial grid infrastructure. Federal funding increases significantly, directly strengthening the reinforcing loop (R).
 
@@ -91,7 +93,7 @@ Quantitatively, emissions reductions could accelerate beyond current trajectorie
 
 The key uncertainty is political durability—whether governments can maintain support long enough to fully realize long-term benefits.
 
-## 3. Intervention B: Decentralized Provincial Investment Strategy
+### 3. Intervention B: Decentralized Provincial Investment Strategy
 
 In this scenario, the federal government shifts funding toward supporting province-specific clean energy projects, avoiding large-scale grid integration and accusations of federal interferance in provincial jursidiction.
 
@@ -107,7 +109,7 @@ By year 10, Canada achieves moderate emissions reductions but misses opportuniti
 
 The main uncertainty is whether technological improvements or provincial cooperation could offset the lack of integration.
 
-# Leverage Point Analysis
+## Leverage Point Analysis
 The most impactful leverage point in this system is political support. This is due to it directly influencing the level and consistency of federal funding, which drives the entire clean energy transition. Political supports sits at the center of both the balancing and reinforcing loops: the variable strengthens the reinforcing loop by enabling continued investment into grid integration, while also negativley affected by rising short-term costs in the balancing loop. This makes the variable a high impact intervention point, as even small changes in support can have cascading effects across the system. Through the implementation of policies that reduce the immediate cost burden the government can weaken the balancing loop and sustain funding for the long-term benefits of integration. However, this approach is not without risk. Public resistance to rising costs, regional inequalities, and provincial opposition to federal involvement could all undermine public support. Despite these challenges, targeting political support offers the most efficient way to shift the system, as it addresses the root constraint preventing long-term growth rather than just its symptoms.
 
 # Recommendation
