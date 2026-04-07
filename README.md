@@ -33,7 +33,6 @@ This line graph provides a long-term historical perspective on carbon emissions 
 ![alt text](image-10.png)
 This bar chart visualizes Canadian public opinion on green energy, drawn from Abacus Data polling conducted on behalf of Clean Energy Canada. The results show strong support across most categories, with Canadians viewing both the clean energy sector (87%) and fossil fuel sector (83%) as economically important. When asked to choose between the two, however, a clear preference emerges — 67% of Canadians favour clean energy projects over conventional fossil fuel development (33%).
 On the question of federal climate action, the data shows that the vast majority of Canadians want the government to maintain or increase its efforts, with 44% saying the government should do more and 41% saying it is doing about the right amount. Only 14% believe the government should do less, making it the smallest bar in the chart by a considerable margin.
-Overall, the polling suggests that public appetite for clean energy investment is broad, and skepticism toward government climate action remains a minority position in Canada.
 
 # Energy Available by Province (2022-2025)
 ![alt text](image-11.png)
@@ -98,3 +97,6 @@ The main uncertainty is whether technological improvements or provincial coopera
 
 # Leverage Point Analysis
 The most impactful leverage point in this system is political support. This is due to it directly influencing the level and consistency of federal funding, which drives the entire clean energy transition. Political supports sits at the center of both the balancing and reinforcing loops: the variable strengthens the reinforcing loop by enabling continued investment into grid integration, while also negativley affected by rising short-term costs in the balancing loop. This makes the variable a high impact intervention point, as even small changes in support can have cascading effects across the system. Through the implementation of policies that reduce the immediate cost burden the government can weaken the balancing loop and sustain funding for the long-term benefits of integration. However, this approach is not without risk. Public resistance to rising costs, regional inequalities, and provincial opposition to federal involvement could all undermine public support. Despite these challenges, targeting political support offers the most efficient way to shift the system, as it addresses the root constraint preventing long-term growth rather than just its symptoms.
+
+# Recommendation
+<p>The Core Argument</p>
