@@ -14,7 +14,7 @@ This project examines how the federal government should navigate these competing
 ## [Background](Background.md)
 ## [Data Sources](Data)
 ### [Summary of data sources](#summary-of-data-sources-1)
-## [Visualizations (Summary of Key data)](#visualizations-1)
+## [Visualizations of Key data](#visualizations-of-key-data-1)
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
@@ -51,7 +51,7 @@ Documents the modeling methods used in Canada's Energy Future 2023 report, outli
 ## Political Sentiment — Abacus Data & Clean Energy Canada
 Two polling sources are used in combination to capture public and political sentiment toward Canadian energy policy. The Abacus Data poll examining the Canada-Alberta Energy MOU provides insight into regional attitudes toward federal-provincial energy agreements, particularly in a province historically resistant to federal involvement. The Clean Energy Canada poll offers a national picture, finding that 67% of Canadians favour clean energy development over fossil fuels and 85% want federal climate action maintained or increased. Together these sources provide the empirical foundation for the political support variable in the CLD and reinforce the viability of Intervention A as a politically sustainable policy path.
 
-# Visualizations (Summary of Key Data)
+# Visualizations of Key Data
 ## Provincial Energy Profiles (fig. 1)
 ![alt text](image-2.png)
 This visualization shows the energy production mix of Canadian provinces, with each pie chart representing the relative contribution of different fuel types to a province’s total energy production. By mapping these energy profiles geographically, the visualization highlights how regional resources and economic structures shape provincial energy systems. For example, provinces in Western Canada display stronger shares of fossil fuels and wind, while central and eastern provinces show larger contributions from hydro and nuclear energy. This visualization supports the project by illustrating the regional diversity of Canada’s energy landscape, making it easier to compare how provinces rely on different energy sources and identify broader patterns in the country’s overall energy production.
