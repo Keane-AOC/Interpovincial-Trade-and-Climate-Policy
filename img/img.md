@@ -1,8 +1,12 @@
-## Energy Available by Province (fig. 4)
-![alt text](image-11.png)
-## Political Support for Green Energy Projects (fig. 3)
-![alt text](image-10.png)
-## Carbon Emissions by Province Overtime (fig. 2)
-![alt text](image-7.png)
-## Provincial Energy Profiles (fig. 1)
-![alt text](image-8.png)
+
+# Provincial Energy Profiles (Map)
+![alt text](image.png)
+
+# Carbon Emissions by Province Overtime (1990-2023)
+![alt text](image-1.png)
+
+# Energy Exports to United States by Province (w/Canada)
+![alt text](image-2.png)
+
+# Energy Available by Province
+![alt text](image-3.png)
