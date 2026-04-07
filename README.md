@@ -12,13 +12,13 @@ This project examines how the federal government should navigate these competing
 
 # Table of Contents
 ## [Background](Background.md)
-## [Casual Loop Diagram](#casual-loop-diagram-1)
-#### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram-1)
 ## [Visualizations](#visualizations-1)
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
 ### [Energy available by province](#energy-available-by-province-fig-4)
+## [Casual Loop Diagram](#casual-loop-diagram-1)
+#### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram-1)
 ## [System Analysis](#system-analysis-1)
 ### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
 ### [Scenario narratives](#scenario-narratives-1)
