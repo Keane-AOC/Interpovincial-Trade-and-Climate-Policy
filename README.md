@@ -13,7 +13,7 @@ This project examines how the federal government should navigate these competing
 # Table of Contents
 ## [Casual Loop Diagram](#casual-loop-diagram)
 #### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram)
-## [Visualizations]
+## Visualizations
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
