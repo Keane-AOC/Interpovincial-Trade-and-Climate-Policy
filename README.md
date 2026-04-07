@@ -13,7 +13,7 @@ This project examines how the federal government should navigate these competing
 # Table of Contents
 ## [Background](Background.md)
 ## [Data Sources](Data)
-### [Summary of data sources](#Data/Data.md)
+### [Summary of data sources](#Data.md)
 ## [Visualizations](#visualizations-1)
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
