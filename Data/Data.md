@@ -29,7 +29,7 @@ Government of Canada Energy Statistics (per month):https://www150.statcan.gc.ca/
 
 Canada Energy Regulator Electricty Supply Model: https://www.cer-rec.gc.ca/en/data-analysis/canada-energy-future/2023-modeling-methods/electricity 
 
-Political Sentiment: https://abacusdata.ca/abacus-data-poll-a-first-look-at-the-political-opinion-impact-of-the-canada-alberta-energy-mou/ & https://cleanenergycanada.org/poll-two-thirds-of-canadians-favour-developing-clean-energy-over-fossil-fuels-while-85-wish-to-maintain-or-increase-federal-climate-action/ 
+Sentiment Analysis: https://www.gdeltproject.org/
 
 Canada Energy Regulator Electric Trade Summary: https://www.cer-rec.gc.ca/en/data-analysis/energy-commodities/electricity/statistics/electricity-trade-summary 
 
