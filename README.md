@@ -22,22 +22,22 @@ The key leverage point in this CLD is political support, as it decides whether o
 For a federal decision-maker weighing whether to continue funding interprovincial grid projects, this CLD suggests the choice is not simply about infrastructure — it is about whether to sustain investment through the politically vulnerable early phase long enough for R1 to self-reinforce. Cutting funding prematurely locks the system into B1's logic, where costs dominate and support erodes. Staying the course, particularly by communicating early emissions wins to the public, is the structural intervention most likely to shift the system toward the R1 growth trajectory.
 
 # Provincial Energy Profiles (Map)
-![alt text](image-4.png)
+![alt text](image-8.png)
 This visualization shows the energy production mix of Canadian provinces, with each pie chart representing the relative contribution of different fuel types to a province’s total energy production. By mapping these energy profiles geographically, the visualization highlights how regional resources and economic structures shape provincial energy systems. For example, provinces in Western Canada display stronger shares of fossil fuels and wind, while central and eastern provinces show larger contributions from hydro and nuclear energy. This visualization supports the project by illustrating the regional diversity of Canada’s energy landscape, making it easier to compare how provinces rely on different energy sources and identify broader patterns in the country’s overall energy production.
+
 # Carbon Emissions by Province Overtime (1990-2023)
 ![alt text](image-7.png)
 This line graph provides a long-term historical perspective on carbon emissions across Canada, emphasizing the stark contrast in environmental impact between provinces. Alberta stands out with the highest and most consistently rising emission levels, a reflection of its carbon-intensive industrial and energy sectors. Conversely, Ontario shows a significant downward trend starting in the mid-2000s—widely attributed to its phase-out of coal-fired power plants—while provinces like Quebec maintain relatively stable, lower emissions due to their reliance on renewables. By visualizing these trajectories, the chart highlights the disparate challenges each province faces in meeting national climate targets and identifies where the most aggressive decarbonization efforts are needed. Overall, it demonstrates which provinces are willing to change their current energy habits to meet global standards.
-# Energy Exports to United States by Province (w/Canada)
-![alt text](image-1.png)
-This visualization tracks the volume of energy exports from various Canadian provinces to the United States, highlighting a period of significant volatility between 2022 and 2025. The dominant red line representing Canada as a whole reveals a massive surge in export value peaking in late 2022, followed by a gradual, jagged decline through 2025. On a provincial level, Quebec and Ontario consistently lead as the primary exporters, reflecting their robust hydroelectric and nuclear interconnections with the U.S. Northeast. This data is crucial for understanding the economic dependency of Canadian energy producers on American demand and illustrates how seasonal fluctuations and market shifts directly impact provincial export revenues. It also demonstrates the excess energy that each province has and can potentially export to other provinces.
-# Energy Available by Province
-![alt text](image.png)
+
+# Political Support for Green Energy Projects
+![alt text](image-10.png)
+This bar chart visualizes Canadian public opinion on green energy, drawn from Abacus Data polling conducted on behalf of Clean Energy Canada. The results show strong support across most categories, with Canadians viewing both the clean energy sector (87%) and fossil fuel sector (83%) as economically important. When asked to choose between the two, however, a clear preference emerges — 67% of Canadians favour clean energy projects over conventional fossil fuel development (33%).
+On the question of federal climate action, the data shows that the vast majority of Canadians want the government to maintain or increase its efforts, with 44% saying the government should do more and 41% saying it is doing about the right amount. Only 14% believe the government should do less, making it the smallest bar in the chart by a considerable margin.
+Overall, the polling suggests that public appetite for clean energy investment is broad, and skepticism toward government climate action remains a minority position in Canada.
+
+# Energy Available by Province (2025)
+![alt text](image-9.png)
 This visualization illustrates the total "Energy Available" or generated across Canadian provinces on a quarterly basis, revealing strong seasonal patterns in production. Quebec clearly dominates the landscape, exhibiting sharp peaks in the first quarter of each year, which aligns with the high demand for heating and the resulting ramp-up of its massive hydroelectric capacity. Ontario follows as the second-largest producer with a more stable output, likely due to its steady nuclear baseload. By showing the total MW generated, this chart underscores the uneven distribution of energy infrastructure in Canada, where a few provinces provide the vast majority of the nation's power, and highlights the cyclical nature of energy availability within the Canadian grid.
-> [!TIP] 
-> Public support data might be difficult to get, I didn't see it in your list of resources.  Failing that, we could use GDELT to measure tone in news sentiment - there is research to suggest that government investment in this sector can be influenced by media buzz.  Let me know if you want to do that, I have code to extract GDELT data.  https://www.gdeltproject.org/
-
-
-https://github.com/Keane-AOC/Interpovincial-Trade-and-Climate-Policy
 
 # System Archetype Identification: Growth and Underinvestment
 For this decision context, the dominant system arhcetype is growth and underinvestment. This is due to Canada's green energy expansion having clear potential for expansion. However, that expansion is constrained by insufficent and delayed investment into interpovincial grid connection. While there are additonal factors that are causing this underinvesment it all boils down to a lack of capital being put in place to start and complete these projects. 
