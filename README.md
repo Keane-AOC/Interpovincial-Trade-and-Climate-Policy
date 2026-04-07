@@ -12,7 +12,7 @@ This project examines how the federal government should navigate these competing
 
 # Table of Contents
 ## Casual Loop Diagram
-[go_to_section](#casual-loop-diagram)
+[Casual Loop Diagram](#casual-loop-diagram)
 
 
 
