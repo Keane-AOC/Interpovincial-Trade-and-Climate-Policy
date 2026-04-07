@@ -33,21 +33,6 @@ This project examines how the federal government should navigate these competing
 ### [The public mandate](#the-public-mandate-1)
 ## [Data Sources](Data)
 
-
-
-
-
-# Casual Loop Diagram
-![alt text](image-1.png)
-## Breakdown of casual loop diagram
-This causal loop diagram (CLD) illustrates how federal climate and infrastructure investment interact with political constraints and system outcomes in Canada’s green energy transition. 
-
-The CLD consists of two reinforcing loops and one balancing loop. The two reinforcing loops are clean energy expansion (R1) and provincial capacity (R2). R1 demonstrates how an increase in federal funding for these projects—e.g. grid integration—leads to decreased greenhouse gas emissions, and with the decrease in greenhouse gas emissions, increased political support for the project. R2 operates similarly to R1, as increased federal funding leads to increased provincial capacity and grid integration. As grids become increasingly integrated, each province has more capacity. The structure of this system suggests a pattern of slow initial growth followed by accelerating momentum. Early on, B1 dominates — short-term costs accumulate faster than emissions reductions are visible, dampening political support before R1 can gain traction. However, if federal funding is sustained long enough for grid integration to mature, R1 begins to overpower B1: emissions fall, public confidence grows, and political support reinforces further investment. The critical risk is that the system stalls in the early phase, which is precisely what nearly happened with the Atlantic Loop. The balancing loop in this CLD is the cost pressures that come with these projects. The key relationship in this loop is how costs affect political support. Obviously, government projects like this require large amounts of capital, with most of it coming from taxpayer money. Additionally, projects like interconnected grids can potentially lead to higher costs of living — as seen with energy prices increasing if Nova Scotia went forward with the Atlantic Loop. If political support falters, it is unlikely that the federal government will be able to continue with these projects.
-
-The key leverage point in this CLD is political support, as it decides whether or not any level of government includes something on their political agenda. Political support is a variable in both the reinforcing loops and the balancing loop, emphasizing its importance to the CLD. It would be difficult for a government to intervene directly in this variable, especially in a democratic country like Canada, where you cannot get away with telling the people what is best for them. As a result, the only way to intervene in this variable is by being successful in R1, as success in R1 leads to increased political support and increased funding.
-
-For a federal decision-maker weighing whether to continue funding interprovincial grid projects, this CLD suggests the choice is not simply about infrastructure — it is about whether to sustain investment through the politically vulnerable early phase long enough for R1 to self-reinforce. Cutting funding prematurely locks the system into B1's logic, where costs dominate and support erodes. Staying the course, particularly by communicating early emissions wins to the public, is the structural intervention most likely to shift the system toward the R1 growth trajectory.
-
 # Visualizations
 
 ## Provincial Energy Profiles (fig. 1)
@@ -66,6 +51,18 @@ On the question of federal climate action, the data shows that the vast majority
 ## Energy Available by Province (fig. 4)
 ![alt text](image.png)
 This visualization illustrates the total "Energy Available" or generated across Canadian provinces on a quarterly basis, revealing strong seasonal patterns in production. Quebec clearly dominates the landscape, exhibiting sharp peaks in the first quarter of each year, which aligns with the high demand for heating and the resulting ramp-up of its massive hydroelectric capacity. Ontario follows as the second-largest producer with a more stable output, likely due to its steady nuclear baseload. By showing the total MW generated, this chart underscores the uneven distribution of energy infrastructure in Canada, where a few provinces provide the vast majority of the nation's power, and highlights the cyclical nature of energy availability within the Canadian grid.
+
+
+# Casual Loop Diagram
+![alt text](image-1.png)
+## Breakdown of casual loop diagram
+This causal loop diagram (CLD) illustrates how federal climate and infrastructure investment interact with political constraints and system outcomes in Canada’s green energy transition. 
+
+The CLD consists of two reinforcing loops and one balancing loop. The two reinforcing loops are clean energy expansion (R1) and provincial capacity (R2). R1 demonstrates how an increase in federal funding for these projects—e.g. grid integration—leads to decreased greenhouse gas emissions, and with the decrease in greenhouse gas emissions, increased political support for the project. R2 operates similarly to R1, as increased federal funding leads to increased provincial capacity and grid integration. As grids become increasingly integrated, each province has more capacity. The structure of this system suggests a pattern of slow initial growth followed by accelerating momentum. Early on, B1 dominates — short-term costs accumulate faster than emissions reductions are visible, dampening political support before R1 can gain traction. However, if federal funding is sustained long enough for grid integration to mature, R1 begins to overpower B1: emissions fall, public confidence grows, and political support reinforces further investment. The critical risk is that the system stalls in the early phase, which is precisely what nearly happened with the Atlantic Loop. The balancing loop in this CLD is the cost pressures that come with these projects. The key relationship in this loop is how costs affect political support. Obviously, government projects like this require large amounts of capital, with most of it coming from taxpayer money. Additionally, projects like interconnected grids can potentially lead to higher costs of living — as seen with energy prices increasing if Nova Scotia went forward with the Atlantic Loop. If political support falters, it is unlikely that the federal government will be able to continue with these projects.
+
+The key leverage point in this CLD is political support, as it decides whether or not any level of government includes something on their political agenda. Political support is a variable in both the reinforcing loops and the balancing loop, emphasizing its importance to the CLD. It would be difficult for a government to intervene directly in this variable, especially in a democratic country like Canada, where you cannot get away with telling the people what is best for them. As a result, the only way to intervene in this variable is by being successful in R1, as success in R1 leads to increased political support and increased funding.
+
+For a federal decision-maker weighing whether to continue funding interprovincial grid projects, this CLD suggests the choice is not simply about infrastructure — it is about whether to sustain investment through the politically vulnerable early phase long enough for R1 to self-reinforce. Cutting funding prematurely locks the system into B1's logic, where costs dominate and support erodes. Staying the course, particularly by communicating early emissions wins to the public, is the structural intervention most likely to shift the system toward the R1 growth trajectory.
 
 # System Analysis
 
