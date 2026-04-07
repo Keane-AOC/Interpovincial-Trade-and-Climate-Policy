@@ -38,7 +38,7 @@ This project examines how the federal government should navigate these competing
 
 
 # Casual Loop Diagram
-![alt text](image-6.png)
+![alt text](image-1.png)
 ## Breakdown of casual loop diagram
 This causal loop diagram (CLD) illustrates how federal climate and infrastructure investment interact with political constraints and system outcomes in Canada’s green energy transition. 
 
@@ -51,15 +51,15 @@ For a federal decision-maker weighing whether to continue funding interprovincia
 # Visualizations
 
 ## Provincial Energy Profiles (fig. 1)
-![alt text](image-8.png)
+![alt text](image-2.png)
 This visualization shows the energy production mix of Canadian provinces, with each pie chart representing the relative contribution of different fuel types to a province’s total energy production. By mapping these energy profiles geographically, the visualization highlights how regional resources and economic structures shape provincial energy systems. For example, provinces in Western Canada display stronger shares of fossil fuels and wind, while central and eastern provinces show larger contributions from hydro and nuclear energy. This visualization supports the project by illustrating the regional diversity of Canada’s energy landscape, making it easier to compare how provinces rely on different energy sources and identify broader patterns in the country’s overall energy production.
 
 ## Carbon Emissions by Province Overtime (fig. 2)
-![alt text](image-7.png)
+![alt text](image-3.png)
 This line graph provides a long-term historical perspective on carbon emissions across Canada, emphasizing the stark contrast in environmental impact between provinces. Alberta stands out with the highest and most consistently rising emission levels, a reflection of its carbon-intensive industrial and energy sectors. Conversely, Ontario shows a significant downward trend starting in the mid-2000s—widely attributed to its phase-out of coal-fired power plants—while provinces like Quebec maintain relatively stable, lower emissions due to their reliance on renewables. By visualizing these trajectories, the chart highlights the disparate challenges each province faces in meeting national climate targets and identifies where the most aggressive decarbonization efforts are needed. Overall, it demonstrates which provinces are willing to change their current energy habits to meet global standards.
 
 ## Political Support for Green Energy Projects (fig. 3)
-![alt text](image-10.png)
+![alt text](image-4.png)
 This bar chart visualizes Canadian public opinion on green energy, drawn from Abacus Data polling conducted on behalf of Clean Energy Canada. The results show strong support across most categories, with Canadians viewing both the clean energy sector (87%) and fossil fuel sector (83%) as economically important. When asked to choose between the two, however, a clear preference emerges — 67% of Canadians favour clean energy projects over conventional fossil fuel development (33%).
 On the question of federal climate action, the data shows that the vast majority of Canadians want the government to maintain or increase its efforts, with 44% saying the government should do more and 41% saying it is doing about the right amount. Only 14% believe the government should do less, making it the smallest bar in the chart by a considerable margin.
 
