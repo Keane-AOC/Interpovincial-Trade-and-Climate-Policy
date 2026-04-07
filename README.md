@@ -53,7 +53,7 @@ The key indicator in this loop is the relation between political support and fed
 
 # Scenario Narratives
 
-1. Status Quo
+## 1. Status Quo
 
 Over the next 5–10 years, Canada continues to pursue a decentralized, province-by-province green energy strategy. Provinces prefer to invest in their own generation capacity, prioritizing jurisdictional autonomy over interprovincial coordination. While this approach allows for incremental progress, it reinforces fragmentation within the Canadian energy system.
 
@@ -65,7 +65,7 @@ Emissions decline modestly, but unevenly. Based on historical trends, provinces 
 
 By year 10, Canada maintains a politically stable but inefficient system and potentially unstable system as those that can do and those that cannot remain stuck in their ways. Clean energy capacity exists, but systemic barriers prevent optimization. The country remains reliant on external energy markets and fails to fully leverage its domestic advantages.
 
-2. Intervention A: Federa Grid Integration Strategy
+## 2. Intervention A: Federa Grid Integration Strategy
 
 Under this scenario, the federal government prioritizes large-scale investment in interprovincial grid infrastructure. Federal funding increases significantly, directly strengthening the reinforcing loop (R).
 
@@ -79,7 +79,7 @@ Quantitatively, emissions reductions could accelerate beyond current trajectorie
 
 The key uncertainty is political durability—whether governments can maintain support long enough to fully realize long-term benefits.
 
-3. Intervention B: Decentralized Provincial Investment Strategy
+## 3. Intervention B: Decentralized Provincial Investment Strategy
 
 In this scenario, the federal government shifts funding toward supporting province-specific clean energy projects, avoiding large-scale grid integration and accusations of federal interferance in provincial jursidiction.
 
