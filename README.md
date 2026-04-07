@@ -18,7 +18,7 @@ This project examines how the federal government should navigate these competing
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
 ### [Energy available by province](#energy-available-by-province-fig-4)
-## [System Analysis](#system-analysis)
+## [System Analysis](#system-analysis-1)
 ### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
 ### [Scenario narratives](#scenario-narratives-1)
 #### [Status quo](#1-status-quo-1)
