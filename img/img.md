@@ -1,0 +1,8 @@
+## Energy Available by Province (fig. 4)
+![alt text](image-11.png)
+## Political Support for Green Energy Projects (fig. 3)
+![alt text](image-10.png)
+## Carbon Emissions by Province Overtime (fig. 2)
+![alt text](image-7.png)
+## Provincial Energy Profiles (fig. 1)
+![alt text](image-8.png)
