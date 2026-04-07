@@ -22,7 +22,7 @@ This project examines how the federal government should navigate these competing
 ### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
 ### [Scenario narratives](#scenario-narratives)
 #### [Status quo](#1-status-quo)
-#### [Intervention A:](#2-intervention-a-federal-grid-integration-strategy)
+#### [Intervention A](#2-intervention-a-federal-grid-integration-strategy)
 #### [Intervention B](#3-intervention-b-decentralized-provincial-investment-strategy)
 #### [Levarage point analysis](#levarage-point-analysis)
 ## [Recommendation](#recommendation)
