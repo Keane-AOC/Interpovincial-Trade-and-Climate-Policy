@@ -13,7 +13,7 @@ This project examines how the federal government should navigate these competing
 # Table of Contents
 ## [Casual Loop Diagram](#casual-loop-diagram)
 #### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram)
-## Visualizations
+## [Visualizations](#visualizations)
 ### [Provincial energy profiles](#provincial-energy-profiles-fig-1)
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
@@ -46,20 +46,22 @@ The key leverage point in this CLD is political support, as it decides whether o
 
 For a federal decision-maker weighing whether to continue funding interprovincial grid projects, this CLD suggests the choice is not simply about infrastructure — it is about whether to sustain investment through the politically vulnerable early phase long enough for R1 to self-reinforce. Cutting funding prematurely locks the system into B1's logic, where costs dominate and support erodes. Staying the course, particularly by communicating early emissions wins to the public, is the structural intervention most likely to shift the system toward the R1 growth trajectory.
 
-# Provincial Energy Profiles (fig. 1)
+# Visualizations
+
+## Provincial Energy Profiles (fig. 1)
 ![alt text](image-8.png)
 This visualization shows the energy production mix of Canadian provinces, with each pie chart representing the relative contribution of different fuel types to a province’s total energy production. By mapping these energy profiles geographically, the visualization highlights how regional resources and economic structures shape provincial energy systems. For example, provinces in Western Canada display stronger shares of fossil fuels and wind, while central and eastern provinces show larger contributions from hydro and nuclear energy. This visualization supports the project by illustrating the regional diversity of Canada’s energy landscape, making it easier to compare how provinces rely on different energy sources and identify broader patterns in the country’s overall energy production.
 
-# Carbon Emissions by Province Overtime (fig. 2)
+## Carbon Emissions by Province Overtime (fig. 2)
 ![alt text](image-7.png)
 This line graph provides a long-term historical perspective on carbon emissions across Canada, emphasizing the stark contrast in environmental impact between provinces. Alberta stands out with the highest and most consistently rising emission levels, a reflection of its carbon-intensive industrial and energy sectors. Conversely, Ontario shows a significant downward trend starting in the mid-2000s—widely attributed to its phase-out of coal-fired power plants—while provinces like Quebec maintain relatively stable, lower emissions due to their reliance on renewables. By visualizing these trajectories, the chart highlights the disparate challenges each province faces in meeting national climate targets and identifies where the most aggressive decarbonization efforts are needed. Overall, it demonstrates which provinces are willing to change their current energy habits to meet global standards.
 
-# Political Support for Green Energy Projects (fig. 3)
+## Political Support for Green Energy Projects (fig. 3)
 ![alt text](image-10.png)
 This bar chart visualizes Canadian public opinion on green energy, drawn from Abacus Data polling conducted on behalf of Clean Energy Canada. The results show strong support across most categories, with Canadians viewing both the clean energy sector (87%) and fossil fuel sector (83%) as economically important. When asked to choose between the two, however, a clear preference emerges — 67% of Canadians favour clean energy projects over conventional fossil fuel development (33%).
 On the question of federal climate action, the data shows that the vast majority of Canadians want the government to maintain or increase its efforts, with 44% saying the government should do more and 41% saying it is doing about the right amount. Only 14% believe the government should do less, making it the smallest bar in the chart by a considerable margin.
 
-# Energy Available by Province (fig. 4)
+## Energy Available by Province (fig. 4)
 ![alt text](image-11.png)
 This visualization illustrates the total "Energy Available" or generated across Canadian provinces on a quarterly basis, revealing strong seasonal patterns in production. Quebec clearly dominates the landscape, exhibiting sharp peaks in the first quarter of each year, which aligns with the high demand for heating and the resulting ramp-up of its massive hydroelectric capacity. Ontario follows as the second-largest producer with a more stable output, likely due to its steady nuclear baseload. By showing the total MW generated, this chart underscores the uneven distribution of energy infrastructure in Canada, where a few provinces provide the vast majority of the nation's power, and highlights the cyclical nature of energy availability within the Canadian grid.
 
