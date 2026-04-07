@@ -18,6 +18,19 @@ This project examines how the federal government should navigate these competing
 ### [Carbon emissions by province overtime](#carbon-emissions-by-province-overtime-fig-2)
 ### [Political support for green energy projects](#political-support-for-green-energy-projects-fig-3)
 ### [Energy available by province](#energy-available-by-province-fig-4)
+## [System Analysis](#system-analysis)
+### [System archetype identification](#system-archetype-identification-growth-and-underinvestment)
+### [Scenario narratives](#scenario-narratives)
+#### [Status quo](#1-status-quo)
+#### [Intervention A:](#2-intervention-a-federal-grid-integration-strategy)
+#### [Intervention B](#3-intervention-b-decentralized-provincial-investment-strategy)
+#### [Levarage point analysis](#levarage-point-analysis)
+## [Recommendation](#recommendation)
+### [The core argument](#the-core-argument)
+### [Why the other options fail](#why-the-other-options-fail)
+### [The critical condition](#the-critical-condition)
+### [The public mandate](#the-public-mandate)
+
 
 
 
