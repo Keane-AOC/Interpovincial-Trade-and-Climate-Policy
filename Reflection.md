@@ -1,0 +1,6 @@
+# Reflection
+The main takeaway I got from this project was gaining an understanding to the amount of effort that goes into a project like this. I have had more research intense projects before — especially papers in political science — but the wrangling and gathering of the data is what took most of my time. Additionally working in applications that I was not familiar with also played a part, especially near the end trying to clean everything up, I often deleted different files that forced my repository to not work.Despite these issues, I did enjoy working on this project, especially since it was something that I am passionate about. Especially wrangling the data, while difficult it eventually paid off when I got to make visualizations and interpret the data.
+
+If I were to do this project again I would try and focus on getting more specific data, I feel the data I used was very broad and can be interpreted anyway as long as you can justify it. I also think I would try and get more "defenative" sentament data, although the polls were good data sources I know there is more specific data that I was unable to get.
+
+Overall, I think this was a fun project, I enjoyed learning and using the different applications , even when my skills were a bit rocky.
