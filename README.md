@@ -119,16 +119,11 @@ Abacus Data. (2024). A first look at the political opinion impact of the Canada-
 
 Barriers to interprovincial trade are falling. What comes next might be even more important. (2025, October 22). Policy Options. https://policyoptions.irpp.org/2025/06/internal-trade-opinion/
 
-Canada Energy Regulator. (2023). Canada's energy future 2023: Electricity supply model documentation. Government of Canada.
-
 Clean Energy Canada. (2024). Poll: Two-thirds of Canadians favour developing clean energy over fossil fuels while 85% wish to maintain or increase federal climate action. Clean Energy Canada. https://cleanenergycanada.org/poll-two-thirds-of-canadians-favour-developing-clean-energy-over-fossil-fuels-while-85-wish-to-maintain-or-increase-federal-climate-action/
 
 Frisko, B., & Hull, J. (2026, February 1). N.S. premier talks trade and energy following meeting between prime minister and provinces. CTVNews. https://www.ctvnews.ca/atlantic/nova-scotia/article/ns-premier-talks-trade-and-energy-following-meeting-between-prime-minister-and-provinces/
 
 Government of Canada, Canada Energy Regulator. (2026, January 29). CER – Canada energy profile. https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html
-
-Government of Canada, Environment and Climate Change Canada. (2024). Greenhouse gas emissions indicators. https://www.canada.ca/en/environment-climate-change.html
-Government of Canada, Statistics Canada. (2024). Monthly energy statistics. https://www150.statcan.gc.ca
 
 Interprovincial energy trade. (n.d.). CESI. https://www.ces-energy.com/news/interprovincial-energy-trade?lm_namespace=news
 
