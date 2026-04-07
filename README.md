@@ -11,6 +11,7 @@ Recent geopolitical tensions between Canada and the United States have renewed f
 This project examines how the federal government should navigate these competing approaches when allocating climate and infrastructure funding. The analysis considers the interests of three key stakeholders: the federal government, which seeks national prosperity while meeting international climate commitments; provincial governments, which prioritize provincial economic outcomes and resource autonomy; and the Canadian population, including First Nations communities, whose economic well-being and rights must be respected in any energy transition. By comparing the long-term economic, environmental, and political implications of interprovincial grid integration versus decentralized provincial development, this project aims to inform a policy decision that balances emissions reduction, affordability, equity, and political feasibility across Canada.
 
 # Table of Contents
+## [Background](Background.md)
 ## [Casual Loop Diagram](#casual-loop-diagram-1)
 #### [Breakdown of casual loop diagram](#breakdown-of-casual-loop-diagram-1)
 ## [Visualizations](#visualizations-1)
